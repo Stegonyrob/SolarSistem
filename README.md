@@ -16,6 +16,9 @@ Observable a simple vista, de tipo booleano con valor inicial false.
 
 La clase debe incluir los siguientes métodos:
 La clase debe tener un constructor que inicialice los valores de sus respectivos atributos.
+
+
+
 Definir un método que devuelva los valores de los atributos de un planeta.
 Calcular la densidad del planeta, como el cociente entre su masa y su volumen.
 Determinar si un planeta del sistema solar se considera exterior.
